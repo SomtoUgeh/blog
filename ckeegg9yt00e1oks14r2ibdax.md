@@ -147,6 +147,7 @@ yarn add strapi-provider-upload-cloudinary
 
 ```bash
 # path: ./my-project/backend/extensions
+cd extensions
 mkdir upload && mkdir upload/config
 cd upload/config && touch settings.js
 
